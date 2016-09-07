@@ -1,0 +1,10 @@
+{
+  "name": "telegram-bot",
+  "version": "0.0.1",
+  "description": "Telegram Bot",
+  "main": "app.js",
+  "author": "Thirumalai Veerasamy <techy@thiru.in>",
+  "dependencies": {
+    "node-telegram-bot-api": "*"
+  }
+}
